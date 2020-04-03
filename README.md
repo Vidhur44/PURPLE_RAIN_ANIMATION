@@ -1,0 +1,4 @@
+REQUIREMENTS:-
+
+* PROCESSING 3 SOFTWARE
+* Knowledge about JAVA
